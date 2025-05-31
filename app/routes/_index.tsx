@@ -33,7 +33,8 @@ export default function Index() {
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold  mb-4">Form Builder Pro</h1>
           <p className="text-xl  -600 mb-8 max-w-2xl mx-auto">
-            Create beautiful, responsive forms with drag-and-drop ease          </p>
+            Create beautiful, responsive forms with drag-and-drop ease{" "}
+          </p>
 
           <div className="flex justify-center space-x-4">
             <Link to="/builder">
